@@ -20,8 +20,7 @@ After over 12 years in the tech industry as a Project Manager and Team Lead, I�
 - 🌱 I’m currently learning JavaScript, Node.js, MongoDB and React.
 - 💻 Skills in Progress: Constantly improving my HTML5 and CSS3 skills by taking on challenges at Front End Mentor. Check out my progress and projects [there](https://www.frontendmentor.io/profile/margaux-works)!
 
-🦉 When I'm Not Coding
-You can find me:
+🦉 When I'm not coding you can find me:
 
 - 🚴‍♀️ Cycling through Berlin’s streets or enjoying indoor cycling classes (in the dark, with loud techno music and a coach screaming at me).<br/> 
 - 🦅 Exploring nature and indulging in amateur birdwatching.<br/>
