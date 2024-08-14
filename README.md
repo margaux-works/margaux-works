@@ -23,6 +23,6 @@ After over 12 years in the tech industry as a Project Manager and Team Lead, I�
 🦉 When I'm Not Coding
 You can find me:
 
-🚴‍♀️ Cycling through Berlin’s streets or enjoying indoor cycling classes (in the dark, with loud techno music and a coach screaming at me)
-🦅 Exploring nature and indulging in amateur birdwatching.
-🔍 Watching true crime documentaries or tackling challenging puzzles during the winter months
+🚴‍♀️ Cycling through Berlin’s streets or enjoying indoor cycling classes (in the dark, with loud techno music and a coach screaming at me)< br / > 
+🦅 Exploring nature and indulging in amateur birdwatching.< br / > 
+🔍 Watching true crime documentaries or tackling challenging puzzles during the winter months< br / > 
