@@ -1,10 +1,11 @@
 ## Hi there, I'm Margaux! 👋
 
-I'm a full-stack developer with a background in technical project management and over 10 years in the web industry.
+I'm a full-stack developer currently working as a Software Engineer Intern at Arcane, where I help build SmartFeeds, a software that automates and scales product feed management for digital advertising.
 
-- 💻 Skilled in frontend and backend development, including JavaScript, React, Angular, TypeScript and Node.js.
-- 👁️ Focused on clean code, user-centered approach, strong testing practices, and troubleshooting to ensure apps are both scalable and reliable.
-- 🥷🏻 Experienced with Agile methodologies, DevOps and cross-functional collaboration, delivering high-quality solutions with speed and precision.
+💻 I work mainly with Python, React, TypeScript, Docker, and Google Cloud Platform (GCP) — and I’m always eager to deepen my knowledge. I also have experience with JavaScript, Node.js, and Angular.
+🛠️ With over 10 years in the web industry and a background in technical project management, I bring a mix of technical and strategic thinking to the table.
+✨ I care about clean, reliable code, building with users in mind, and collaborating across teams to ship high-quality products.
+
 
 ### My Tech Stack
 
@@ -18,6 +19,7 @@ I'm a full-stack developer with a background in technical project management and
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tail)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express JS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
