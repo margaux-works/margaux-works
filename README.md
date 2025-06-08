@@ -1,12 +1,11 @@
 ## Hi there, I'm Margaux! 👋
 
-I'm a full-stack developer currently working as a Software Engineer Intern at Arcane, where I help build SmartFeeds, a software that automates and scales product feed management for digital advertising.
+I'm a full-stack developer with a background in technical project management and over 10 years in the web industry.
 
-💻 I work mainly with Python, React, TypeScript, Docker, and Google Cloud Platform (GCP) — and I’m always eager to deepen my knowledge. I also have experience with JavaScript, Node.js, and Angular.
+💻 I mainly work with Python, TypeScript, JavaScript, React, and Node.js.
+🛠️ I'm also comfortable using Docker, GCP, and modern development practices like testing, CI/CD, and clean code.
 
-🛠️ With over 10 years in the web industry and a background in technical project management, I bring a mix of technical and strategic thinking to the table.
-
-✨ I care about clean, reliable code, building with users in mind, and collaborating across teams to ship high-quality products.
+I enjoy building reliable, user-focused applications and collaborating with cross-functional teams to ship high-quality features.
 
 
 ### My Tech Stack
