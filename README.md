@@ -3,6 +3,7 @@
 I'm a full-stack developer with a background in technical project management and over 10 years in the web industry.
 
 💻 I mainly work with Python, TypeScript, JavaScript, React, and Node.js.
+
 🛠️ I'm also comfortable using Docker, GCP, and modern development practices like testing, CI/CD, and clean code.
 
 I enjoy building reliable, user-focused applications and collaborating with cross-functional teams to ship high-quality features.
